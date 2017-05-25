@@ -2,7 +2,7 @@ package Ocho;
 
 import java.util.ArrayList;
 
-public class Nreinas {
+public class reinas {
  
     private boolean[] horizontal;
     private boolean[] vertical;
